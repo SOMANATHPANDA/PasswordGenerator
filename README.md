@@ -11,10 +11,13 @@ A simple and interactive Password Generator built with React. This application a
 ## Features
 
 - **Customizable Password Length**: Users can set the desired password length (between 6 and 30 characters).
+
 - **Character Options**: 
   - Include numbers
   - Include special characters
+
 - **Password Copy**: Easily copy generated passwords to the clipboard.
+
 - **User-Friendly Interface**: Clean and modern UI with responsive design.
 
 ## Steps to Run the Application
@@ -37,7 +40,7 @@ A simple and interactive Password Generator built with React. This application a
 
 6. **Live Demo** 
 
-    You can check out the live demo of the Password Generator:https://somanathpanda.github.io/PasswordGenerator/
+    You can check out the live demo of the Password Generator <a href="https://somanathpanda.github.io/PasswordGenerator/"> here </a>
 
 5. **How to Use**:
 
@@ -46,4 +49,6 @@ A simple and interactive Password Generator built with React. This application a
     3. Click on the "Generate" button to create a password.
     4. Click "Copy" to copy the password to your clipboard.
 
-5. **Screenshots**: (./public/Screenshot.png)
+5. **Screenshots**:
+
+    ![Password Generator](./Screenshot.png)
