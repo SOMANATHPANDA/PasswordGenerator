@@ -24,7 +24,7 @@ A simple and interactive Password Generator built with React. This application a
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/SOMANATHPANDA/PasswordGenerator.git
+   git clone https://github.com/SOMANATHPANDA/PasswordGenerator/tree/main
    cd <repository-directory>
 
 2. **Install Dependencies**:
